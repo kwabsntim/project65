@@ -3,7 +3,6 @@ from flask_socketio import SocketIO, join_room, leave_room, emit, send
 import random
 from string import ascii_letters
 from flask import session
-from BizzME import app
 
 
 
